@@ -1,5 +1,7 @@
 # link
 
+[![CircleCI](https://circleci.com/gh/tchssk/link.svg?style=shield&circle-token=3be34073d5a63f25fc6aff4e39487afead79df72)](https://circleci.com/gh/tchssk/link)
+
 Creates the Link Header like pagination of GitHub API.
 
 ## Installation
