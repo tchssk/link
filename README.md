@@ -12,7 +12,7 @@ $ go get github.com/tchssk/link
 
 ```go
 l := link.Pagination(page, perPage, totalCount, url)
-w.Header().Set("Link", l)
+http.ResponseWriter.Header().Set("Link", l)
 ```
 
 ## License
